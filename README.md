@@ -1,4 +1,4 @@
-# The-Clever-Crow-AR-Interactive-Story
+# The-Clever-Crow-Interactive-AR-Story
 ## A Marker based AR Story for Kids
 
 The project illustrates the famous story The Thirsty Crow (also known as The Clever Crow) using attractive AR objects and animations.
